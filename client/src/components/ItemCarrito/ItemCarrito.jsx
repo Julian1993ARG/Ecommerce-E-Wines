@@ -22,7 +22,7 @@ export default function ItemCarrito (props) {
       <div className={`row border-bottom border-2 fs-4 ${s.item}`}>
         <Row>
           <Col className={s.image}>
-            <img className={`img-fluid ${s.imageCarrito}`} src={image} alt={image} />
+            <img className='img-fluid' src={image} alt={image} />
           </Col>
           <Col className={`d-flex flex-column col-4 justify-content-center align-items-left ${s.titleName}`}>
             <Row className='fs-3 text-start'>{title}</Row>
