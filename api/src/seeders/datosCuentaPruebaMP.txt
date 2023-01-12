@@ -1,6 +1,0 @@
-cuenta prueba 1
-
-user TETE4159723
-pass JwN4vW0RQG
-email test_user_35012065@testuser.com
-DNI 01111111
